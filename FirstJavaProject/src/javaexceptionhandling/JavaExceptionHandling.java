@@ -20,7 +20,6 @@ public class JavaExceptionHandling {
 		System.out.println ("exception details is:" +e.fillInStackTrace());
 		e.printStackTrace();
 		
-			
 		}
 		finally {
 		

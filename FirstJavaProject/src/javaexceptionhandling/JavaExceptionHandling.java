@@ -18,6 +18,7 @@ public class JavaExceptionHandling {
 		System.out.println ("exception message is:" +e.getMessage());
 		System.out.println ("exception cause is:" +e.getCause());
 		System.out.println ("exception details is:" +e.fillInStackTrace());
+		e.printStackTrace();
 		
 			
 		}
